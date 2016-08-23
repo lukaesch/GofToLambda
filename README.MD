@@ -1,0 +1,1 @@
+This project is a playground to practice the translation of some Gang Of Four Patterns into equivalent solutions based on Lambda expressions.
